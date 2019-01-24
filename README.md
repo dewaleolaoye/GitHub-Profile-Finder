@@ -1,3 +1,3 @@
-#Learning how to use AJAX with jQuery
+##Learning how to use AJAX with jQuery
 
 Fetching Data
